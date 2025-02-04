@@ -1,11 +1,11 @@
-opencv-python-headless: >=4.5.0
+opencv-python-headless
 
-numpy: >=1.21.0
+numpy
 
-keras: >=2.6.0
+keras
 
-keras-facenet: >=0.0.8
+keras-facenet
 
-scikit-learn: >=1.0.0
+scikit-learn
 
-streamlit: >=1.0.0
+streamlit
