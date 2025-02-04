@@ -2,6 +2,7 @@ import os
 import cv2
 import numpy as np
 from keras.applications.vgg16 import VGG16, preprocess_input
+from keras.models import Model
 from keras_facenet import FaceNet
 from sklearn.svm import SVC
 from sklearn.metrics import classification_report
