@@ -1,0 +1,6 @@
+opencv-python
+numpy
+keras
+keras-facenet
+scikit-learn
+streamlit
