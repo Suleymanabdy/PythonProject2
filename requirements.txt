@@ -1,6 +1,11 @@
-opencv-python-headless==4.5.1
-numpy
-keras
-keras-facenet
-scikit-learn
-streamlit
+opencv-python-headless: >=4.5.0
+
+numpy: >=1.21.0
+
+keras: >=2.6.0
+
+keras-facenet: >=0.0.8
+
+scikit-learn: >=1.0.0
+
+streamlit: >=1.0.0
