@@ -1,11 +1,6 @@
-opencv-python-headless
-
-numpy
-
-keras
-
-keras-facenet
-
-scikit-learn
-
 streamlit
+opencv-python
+keras
+scikit-learn
+pillow
+numpy
