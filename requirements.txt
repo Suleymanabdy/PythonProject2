@@ -4,3 +4,4 @@ keras
 scikit-learn
 pillow
 numpy
+tensorflow
